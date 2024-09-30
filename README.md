@@ -1,4 +1,15 @@
 # login-responsive-vue
+## Teniendo en cuenta la consigna de la tarea obligatoria, hacemos lo mismo, siguiendo la mismas instrucciones, con el siguiente repositorio  [https://github.com/unknowncode44/desafio3-formdata.git]
+## La idea es lograr la misma funcionalidad que en el repo:
+
+### Botones y logica que activan movimientos del form box
+### El container tiene que anidar un router-view y cuando elegimos registrarse o ingresar debemos rutear usando router-link
+### Todo en Typescript con script setup, modelo (interface). Se calificara responsividad, tipado, comentarios (en ingles suman mas), detalles visuales.
+### Si el ejercicio supera el 80% sobre 100% y quiere duplicar el punto ganado debera explicar en clase frente a sus companeros como funciona su codigo.
+### Si el alumno quiere triplicar su puntaje, debera hacer el punto anterior pero la explicacion tiene que ser por completo y absolutamente en ingles.
+### Subir link de repositorio en la entrega
+
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
