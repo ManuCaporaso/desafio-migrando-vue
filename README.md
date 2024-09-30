@@ -1,5 +1,5 @@
 # login-responsive-vue
-## Teniendo en cuenta la consigna de la tarea obligatoria, hacemos lo mismo, siguiendo la mismas instrucciones, con el siguiente repositorio  [https://github.com/unknowncode44/desafio3-formdata.git]
+## Teniendo en cuenta la consigna de la tarea obligatoria, hacemos lo mismo, siguiendo la mismas instrucciones, con el siguiente [repositorio](https://github.com/unknowncode44/desafio3-formdata.git)
 ## La idea es lograr la misma funcionalidad que en el repo:
 
 ### Botones y logica que activan movimientos del form box
